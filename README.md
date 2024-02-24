@@ -41,6 +41,10 @@ This project is a solution to the CodeLeap test. It implements a Django backend 
 
 The project interacts with an external API hosted at `https://dev.codeleap.co.uk/careers/` for managing posts.
 
+## Deployment
+
+The project is deployed and accessible at [http://my-env.eba-r3pfmfk6.us-west-2.elasticbeanstalk.com/](http://my-env.eba-r3pfmfk6.us-west-2.elasticbeanstalk.com/).
+
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute to this project, please fork the repository and submit a pull request.
@@ -48,4 +52,3 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
