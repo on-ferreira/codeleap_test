@@ -43,7 +43,7 @@ The project interacts with an external API hosted at `https://dev.codeleap.co.uk
 
 ## Deployment
 
-The project is deployed and accessible at [http://my-env.eba-r3pfmfk6.us-west-2.elasticbeanstalk.com/](http://my-env.eba-r3pfmfk6.us-west-2.elasticbeanstalk.com/).
+The project is deployed and accessible at [http://my-env.eba-r3pfmfk6.us-west-2.elasticbeanstalk.com/](http://my-env.eba-r3pfmfk6.us-west-2.elasticbeanstalk.com/). [DOWN]
 
 ## Contributing
 
